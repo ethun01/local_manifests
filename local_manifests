@@ -13,7 +13,7 @@
 
     <!-- device (msm8953) -->
     <project path="device/xiaomi/daisy" name="xiaomi-msm8953-devs/android_device_xiaomi_daisy" remote="github-local" />
-    <project path="device/xiaomi/msm8953-common" name="daisy-mi-a2-lite/device_xiaomi_msm8953-common" remote="github-local" />
+    <project path="device/xiaomi/msm8953-common" name="xiaomi-msm8953-devs/android_device_xiaomi_msm8953-common" remote="github-local" />
 
     <!-- kernel (msm8953) -->
     <project path="kernel/xiaomi/msm8953" name="xiaomi-msm8953-devs/android_kernel_xiaomi_msm8953" remote="github-local" />
